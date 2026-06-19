@@ -1,4 +1,4 @@
-<img width="800" height="400" alt="Eilean_donan" src="https://github.com/user-attachments/assets/ef49fea8-38e6-4ce5-8d88-966e8356f55e" />
+<img width="800" height="400" alt="Eilean Donan castle in a cloudy day" src="https://github.com/user-attachments/assets/ef49fea8-38e6-4ce5-8d88-966e8356f55e" />
 
 *Eilean Donan castle looking beautiful.*
 
